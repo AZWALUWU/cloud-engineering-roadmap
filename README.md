@@ -4,6 +4,7 @@
 
 > 4+ years running FTTH networks → building SaaS on Cloudflare Workers → now going deep into cloud engineering the right way: by building everything from scratch.
 
+https://github.com/AZWALUWU/p01-linux-lab.git
 ---
 
 ## 👋 About Me
@@ -70,7 +71,7 @@ Bash · Python · TypeScript · Go (Kubernetes Operator)
 
 | # | Project | Status | Repository |
 |---|---------|--------|------------|
-| 0.1 | My Linux Lab: From Zero to Command Line | ⏳ | — |
+| 0.1 | My Linux Lab: From Zero to Command Line | ✅ | [p01-linux-lab](https://github.com/AZWALUWU/p01-linux-lab) |
 | 0.2 | Bash Automation: 10 Scripts for Real Problems | ⏳ | — |
 | 0.3 | Networking Deep Dive: DNS, HTTP, TCP/IP | ⏳ | — |
 | 0.4 | WireGuard VPN Server on Google Cloud | ⏳ | — |
@@ -225,9 +226,9 @@ Bash · Python · TypeScript · Go (Kubernetes Operator)
 
 ## 🔥 Currently Working On
 
-**Phase 0 — Linux & Networking Foundation**
+**Phase 0 — Project 0.2: Bash Automation Scripts**
 
-Starting from the fundamentals and not skipping anything. Every cloud engineer needs to understand what happens below the cloud layer.
+Writing 10 real-world Bash scripts covering system monitoring, log management, backup automation, and process watchdog.
 
 *Last updated: June 2025*
 
@@ -271,9 +272,9 @@ The goal: prove that serious cloud engineering skills can be built without spend
 
 ## 📈 Weekly Progress Log
 
-| Week | Phase | Projects Completed | Key Learning |
-|------|-------|-------------------|--------------|
-| Week 1 | Phase 0 | Starting... | — |
+| Week | Phase | Projects Completed | 
+|------|-------|-------------------|
+| Week 1 | Phase 0 | p01 |
 
 *This table updates every week.*
 
