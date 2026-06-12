@@ -4,7 +4,6 @@
 
 > 4+ years running FTTH networks → building SaaS on Cloudflare Workers → now going deep into cloud engineering the right way: by building everything from scratch.
 
-https://github.com/AZWALUWU/p01-linux-lab.git
 ---
 
 ## 👋 About Me
