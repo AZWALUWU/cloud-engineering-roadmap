@@ -1,24 +1,5 @@
 # 🚀 Cloud Engineering: 70 Real-World Projects
 
-**From network infrastructure operations to cloud-native engineering — built in public, documented in detail, $0 infrastructure cost.**
-
-> 4+ years running FTTH networks → building SaaS on Cloudflare Workers → now going deep into cloud engineering the right way: by building everything from scratch.
-
----
-
-## 👋 About Me
-
-I'm **Aza** — a network and infrastructure engineer from Indonesia transitioning into cloud engineering.
-
-My background is operational: 4+ years managing FTTH internet infrastructure with MikroTik RouterOS, OLT/ONT equipment, and Linux servers in production environments where downtime has real consequences.
-
-Now I'm going all-in: working through 70 structured cloud engineering projects to build deep, documented, and demonstrably real expertise. Everything is public. Every project has an architecture diagram. Every phase gets an honest write-up of what worked, what didn't, and what I learned.
-
-**Why 70 projects instead of certifications?**
-Because when a recruiter asks "show me what you've built," I want to have 70 answers backed by public repositories.
-
----
-
 ## 📌 Journey Overview
 
 | | |
@@ -29,37 +10,6 @@ Because when a recruiter asks "show me what you've built," I want to have 70 ans
 | **Total Projects** | 70 |
 | **Infrastructure Cost** | $0/month |
 | **Everything Public** | ✅ Yes |
-
----
-
-## 🛠️ Tech Stack Covered
-
-**Cloud Platforms**
-AWS (EC2, Lambda, RDS, S3, VPC, IAM, DynamoDB, SQS, SNS, CloudFront) · Google Cloud · Cloudflare Workers/Pages/R2/Tunnel
-
-**Containerization & Orchestration**
-Docker · Docker Compose · Docker Swarm · Kubernetes · k3s · Minikube · kind · Helm · ArgoCD · Kustomize
-
-**Infrastructure as Code**
-Terraform · OpenTofu · Terragrunt · Pulumi (TypeScript)
-
-**CI/CD & Automation**
-GitHub Actions · Semantic Release · Conventional Commits · GitOps · Blue/Green · Canary Deployments
-
-**Monitoring & Observability**
-Prometheus · Grafana · Loki · Promtail · Alertmanager · Jaeger · OpenTelemetry · Chaos Mesh
-
-**Security**
-HashiCorp Vault · OPA/Conftest · Falco · Trivy · Prowler · mTLS with Linkerd · WAF with Cloudflare
-
-**Databases & Storage**
-PostgreSQL · Redis · DynamoDB · ClickHouse · MinIO · Supabase
-
-**Networking**
-Linux Networking · WireGuard VPN · Nginx · Traefik · cert-manager · Let's Encrypt · Cloudflare Tunnel
-
-**Languages**
-Bash · Python · TypeScript · Go (Kubernetes Operator)
 
 ---
 
@@ -220,6 +170,56 @@ Bash · Python · TypeScript · Go (Kubernetes Operator)
 | 9.8 | Open Source Contribution: Merged PR in a Real Project | ⏳ | — |
 | 9.9 | Portfolio Documentation: GitHub + LinkedIn Complete | ⏳ | — |
 | 9.10 | Capstone: Agenda Prestasi Infrastructure v2 | ⏳ | — |
+
+---
+
+**From network infrastructure operations to cloud-native engineering — built in public, documented in detail, $0 infrastructure cost.**
+
+> 4+ years running FTTH networks → building SaaS on Cloudflare Workers → now going deep into cloud engineering the right way: by building everything from scratch.
+
+---
+
+## 👋 About Me
+
+I'm **Aza** — a network and infrastructure engineer from Indonesia transitioning into cloud engineering.
+
+My background is operational: 4+ years managing FTTH internet infrastructure with MikroTik RouterOS, OLT/ONT equipment, and Linux servers in production environments where downtime has real consequences.
+
+Now I'm going all-in: working through 70 structured cloud engineering projects to build deep, documented, and demonstrably real expertise. Everything is public. Every project has an architecture diagram. Every phase gets an honest write-up of what worked, what didn't, and what I learned.
+
+**Why 70 projects instead of certifications?**
+Because when a recruiter asks "show me what you've built," I want to have 70 answers backed by public repositories.
+
+---
+
+## 🛠️ Tech Stack Covered
+
+**Cloud Platforms**
+AWS (EC2, Lambda, RDS, S3, VPC, IAM, DynamoDB, SQS, SNS, CloudFront) · Google Cloud · Cloudflare Workers/Pages/R2/Tunnel
+
+**Containerization & Orchestration**
+Docker · Docker Compose · Docker Swarm · Kubernetes · k3s · Minikube · kind · Helm · ArgoCD · Kustomize
+
+**Infrastructure as Code**
+Terraform · OpenTofu · Terragrunt · Pulumi (TypeScript)
+
+**CI/CD & Automation**
+GitHub Actions · Semantic Release · Conventional Commits · GitOps · Blue/Green · Canary Deployments
+
+**Monitoring & Observability**
+Prometheus · Grafana · Loki · Promtail · Alertmanager · Jaeger · OpenTelemetry · Chaos Mesh
+
+**Security**
+HashiCorp Vault · OPA/Conftest · Falco · Trivy · Prowler · mTLS with Linkerd · WAF with Cloudflare
+
+**Databases & Storage**
+PostgreSQL · Redis · DynamoDB · ClickHouse · MinIO · Supabase
+
+**Networking**
+Linux Networking · WireGuard VPN · Nginx · Traefik · cert-manager · Let's Encrypt · Cloudflare Tunnel
+
+**Languages**
+Bash · Python · TypeScript · Go (Kubernetes Operator)
 
 ---
 
