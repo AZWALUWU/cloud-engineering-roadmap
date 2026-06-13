@@ -71,7 +71,7 @@ Bash · Python · TypeScript · Go (Kubernetes Operator)
 | # | Project | Status | Repository |
 |---|---------|--------|------------|
 | 0.1 | My Linux Lab: From Zero to Command Line | ✅ | [p01-linux-lab](https://github.com/AZWALUWU/p01-linux-lab) |
-| 0.2 | Bash Automation: 10 Scripts for Real Problems | ⏳ | — |
+| 0.2 | Bash Automation: 10 Scripts for Real Problems | ✅ | [p02-bash-automation](https://github.com/AZWALUWU/p02-bash-automation.git) |
 | 0.3 | Networking Deep Dive: DNS, HTTP, TCP/IP | ⏳ | — |
 | 0.4 | WireGuard VPN Server on Google Cloud | ⏳ | — |
 | 0.5 | SSH Hardening & Bastion Host Pattern | ⏳ | — |
@@ -220,16 +220,6 @@ Bash · Python · TypeScript · Go (Kubernetes Operator)
 | 9.8 | Open Source Contribution: Merged PR in a Real Project | ⏳ | — |
 | 9.9 | Portfolio Documentation: GitHub + LinkedIn Complete | ⏳ | — |
 | 9.10 | Capstone: Agenda Prestasi Infrastructure v2 | ⏳ | — |
-
----
-
-## 🔥 Currently Working On
-
-**Phase 0 — Project 0.2: Bash Automation Scripts**
-
-Writing 10 real-world Bash scripts covering system monitoring, log management, backup automation, and process watchdog.
-
-*Last updated: June 2025*
 
 ---
 
