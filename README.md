@@ -4,9 +4,8 @@
 
 | | |
 |---|---|
-| **Started** | June 2025 |
-| **Target Completion** | ~January 2026 |
-| **Daily Commitment** | 8 hours |
+| **Started** | December 2025 |
+| **Target Completion** | December 2026 |
 | **Total Projects** | 70 |
 | **Infrastructure Cost** | $0/month |
 | **Everything Public** | ✅ Yes |
