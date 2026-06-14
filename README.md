@@ -1,4 +1,4 @@
-# 🚀 Cloud Engineering: 70 Real-World Projects
+# 🚀 Cloud Engineering: 69 Real-World Projects
 
 ## 📌 Journey Overview
 
@@ -6,7 +6,7 @@
 |---|---|
 | **Started** | December 2025 |
 | **Target Completion** | December 2026 |
-| **Total Projects** | 70 |
+| **Total Projects** | 69 |
 | **Infrastructure Cost** | $0/month |
 | **Everything Public** | ✅ Yes |
 
@@ -21,9 +21,8 @@
 |---|---------|--------|------------|
 | 0.1 | My Linux Lab: From Zero to Command Line | ✅ | [p01-linux-lab](https://github.com/AZWALUWU/p01-linux-lab) |
 | 0.2 | Bash Automation: 10 Scripts for Real Problems | ✅ | [p02-bash-automation](https://github.com/AZWALUWU/p02-bash-automation.git) |
-| 0.3 | Networking Deep Dive: DNS, HTTP, TCP/IP | ⏳ | — |
-| 0.4 | WireGuard VPN Server on Google Cloud | ⏳ | — |
-| 0.5 | SSH Hardening & Bastion Host Pattern | ⏳ | — |
+| 0.3 | WireGuard VPN Server on Google Cloud | ✅ | [p03-wireguard-vpn](https://github.com/AZWALUWU/p03-wireguard-vpn.git) |
+| 0.4 | SSH Hardening & Bastion Host Pattern | ⏳ | — |
 
 ---
 
