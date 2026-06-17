@@ -22,7 +22,7 @@
 | 0.1 | My Linux Lab: From Zero to Command Line | ✅ | [p01-linux-lab](https://github.com/AZWALUWU/p01-linux-lab) |
 | 0.2 | Bash Automation: 10 Scripts for Real Problems | ✅ | [p02-bash-automation](https://github.com/AZWALUWU/p02-bash-automation.git) |
 | 0.3 | WireGuard VPN Server on Google Cloud | ✅ | [p03-wireguard-vpn](https://github.com/AZWALUWU/p03-wireguard-vpn.git) |
-| 0.4 | SSH Hardening & Bastion Host Pattern | ⏳ | — |
+| 0.4 | SSH Hardening & Bastion Host Pattern | ✅ | [p04-ssh-hardening](https://github.com/AZWALUWU/p04-ssh-hardening.git) |
 
 ---
 
