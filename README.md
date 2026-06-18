@@ -31,8 +31,8 @@
 
 | # | Project | Status | Repository |
 |---|---------|--------|------------|
-| 1.1 | Static Website: CDN + Custom Domain + SSL | ⏳ | — |
-| 1.2 | EC2 Web Server: Nginx + Node.js from Scratch | ⏳ | — |
+| 1.1 | Static Website: CDN + Custom Domain + SSL | ✅ | [p1.1-static-site-cdn](https://github.com/AZWALUWU/p1.1-static-site-cdn.git) |
+| 1.2 | EC2 Web Server: Nginx + Node.js from Scratch | ✅ | [p1.2-ec2-web-server](https://github.com/AZWALUWU/p1.2-ec2-web-server.git) |
 | 1.3 | Three-Tier Architecture: Web + App + Database | ⏳ | — |
 | 1.4 | Serverless: Lambda + API Gateway + DynamoDB | ⏳ | — |
 | 1.5 | Auto Scaling: Systems that Scale Themselves | ⏳ | — |
