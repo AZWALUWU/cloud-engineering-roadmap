@@ -33,9 +33,9 @@
 |---|---------|--------|------------|
 | 1.1 | Static Website: CDN + Custom Domain + SSL | ✅ | [p1.1-static-site-cdn](https://github.com/AZWALUWU/p1.1-static-site-cdn.git) |
 | 1.2 | EC2 Web Server: Nginx + Node.js from Scratch | ✅ | [p1.2-ec2-web-server](https://github.com/AZWALUWU/p1.2-ec2-web-server.git) |
-| 1.3 | Three-Tier Architecture: Web + App + Database | ⏳ | — |
-| 1.4 | Serverless: Lambda + API Gateway + DynamoDB | ⏳ | — |
-| 1.5 | Auto Scaling: Systems that Scale Themselves | ⏳ | — |
+| 1.3 | Three-Tier Architecture: Web + App + Database | ✅ | [p1.2-ec2-web-server](https://github.com/AZWALUWU/p1.3-three-tier-architecture.git) |
+| 1.4 | Serverless: Lambda + API Gateway + DynamoDB | ✅ | [p1.2-ec2-web-server](https://github.com/AZWALUWU/p1.4-serverless-api.git) |
+| 1.5 | Auto Scaling: Systems that Scale Themselves | ✅ | [p1.5-auto-scaling](https://github.com/AZWALUWU/p1.5-auto-scaling.git) |
 | 1.6 | S3 Event-Driven: Image Processing Pipeline | ⏳ | — |
 | 1.7 | SQS + SNS: Message Queue Architecture | ⏳ | — |
 | 1.8 | IAM Deep Dive: Least Privilege Permission Design | ⏳ | — |
