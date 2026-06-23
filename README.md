@@ -36,9 +36,9 @@
 | 1.3 | Three-Tier Architecture: Web + App + Database | ✅ | [p1.3-three-tier-architecture](https://github.com/AZWALUWU/p1.3-three-tier-architecture.git) |
 | 1.4 | Serverless: Lambda + API Gateway + DynamoDB | ✅ | [	p1.4-serverless-api](https://github.com/AZWALUWU/p1.4-serverless-api.git) |
 | 1.5 | Auto Scaling: Systems that Scale Themselves | ✅ | [p1.5-auto-scaling](https://github.com/AZWALUWU/p1.5-auto-scaling.git) |
-| 1.6 | S3 Event-Driven: Image Processing Pipeline | ⏳ | — |
-| 1.7 | SQS + SNS: Message Queue Architecture | ⏳ | — |
-| 1.8 | IAM Deep Dive: Least Privilege Permission Design | ⏳ | — |
+| 1.6 | S3 Event-Driven: Image Processing Pipeline | ✅ | [p1.6-s3-image-pipeline](https://github.com/AZWALUWU/p1.6-s3-image-pipeline.git) |
+| 1.7 | SQS + SNS: Message Queue Architecture | ✅ | [p1.7-message-queue](https://github.com/AZWALUWU/p1.7-message-queue.git) |
+| 1.8 | IAM Deep Dive: Least Privilege Permission Design | ✅ | [p1.8-iam-deep-dive](https://github.com/AZWALUWU/p1.8-iam-deep-dive.git) |
 
 ---
 
