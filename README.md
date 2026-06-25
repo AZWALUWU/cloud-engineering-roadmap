@@ -47,11 +47,11 @@
 
 | # | Project | Status | Repository |
 |---|---------|--------|------------|
-| 2.1 | Dockerize 5 Different Application Types | ⏳ | — |
-| 2.2 | Multi-Stage Build: 1GB → 87MB Images | ⏳ | — |
-| 2.3 | Docker Compose: Full Stack in One Command | ⏳ | — |
-| 2.4 | Container Registry: Push, Pull, Manage | ⏳ | — |
-| 2.5 | Docker Security Hardening | ⏳ | — |
+| 2.1 | Dockerize 5 Different Application Types | ✅ | [p2.1-docker-multi-app](https://github.com/AZWALUWU/p2.1-docker-multi-app.git) |
+| 2.2 | Multi-Stage Build: 1GB → 87MB Images | ✅ | [p2.2-docker-multistage-build](https://github.com/AZWALUWU/p2.2-docker-multistage-build.git) |
+| 2.3 | Docker Compose: Full Stack in One Command | ✅ | [p2.3-docker-compose-fullstack](https://github.com/AZWALUWU/p2.3-docker-compose-fullstack.git) |
+| 2.4 | Container Registry: Push, Pull, Manage | ✅ | [p2.4-container-registry](https://github.com/AZWALUWU/p2.4-container-registry.git) |
+| 2.5 | Docker Security Hardening | ⏳ | - |
 | 2.6 | Container Monitoring: cAdvisor + Prometheus + Grafana | ⏳ | — |
 | 2.7 | Docker Swarm: Multi-Node Orchestration | ⏳ | — |
 
